@@ -30,4 +30,4 @@ namespace Teamspeak3\Transport;
  * @class TeamSpeak3_Transport_Exception
  * @brief Enhanced exception class for TeamSpeak3_Transport_Abstract objects.
  */
-class TeamSpeak3_Transport_Exception extends TeamSpeak3_Exception {}
+class Exception extends \TeamSpeak3\Exception {}
